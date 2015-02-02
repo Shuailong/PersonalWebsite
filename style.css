@@ -1,0 +1,280 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans);
+@import url(http://fonts.googleapis.com/css?family=Play);
+
+html {
+  font-family: "PT Sans", sans-serif;
+  font-size: 18px;
+  line-height: 1.6;
+  color: black;
+  background: white;
+}
+body {
+	padding: 0;
+	margin: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: Play, Helvetica, 'Myriad Pro', "Segoe UI", sans-serif;
+}
+h1 {
+	font-size: 2em;
+}
+h2 {
+	font-size: 1.5em;
+}
+h3 {
+	font-size: 1.2em;
+}
+
+a {
+	color: darkblue;
+	text-decoration: none;
+}
+a:hover {
+	color: red;
+}
+a > img {
+	border: 0;
+}
+
+article {
+	max-width: 900px;
+	margin: 0;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 2em;
+  padding-left: 4em;
+	padding-top: 0;
+	box-shadow: 0 0 30px darkgray;
+	-moz-box-shadow: 0 0 30px darkgray;
+	-webkit-box-shadow: 0 0 30px darkgray;
+}
+
+section {
+  padding-top: 1em;
+  clear: both;
+}
+article h1,
+article h2 {
+  color: #333333;
+  padding-top: 0.2ex;
+  margin-left: -2ex;
+  padding-bottom: 0.1ex;
+  border-bottom: 1px solid black;
+  text-shadow: 1px 1px 1px lightgray;
+}
+
+footer {
+  font-size: x-small;
+  color: gray;
+  text-align: center;
+  padding-top: 3em;
+  padding-bottom: 4em;
+}
+footer * {
+  padding: 0;
+  margin: 0;
+}
+footer > ul {
+  margin-top: 0.3em;
+}
+footer li {
+  display: inline;
+  list-style-type: none;
+}
+
+/* site header */
+.siteheader {
+	font-size: x-small;
+  line-height: 1.2;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	color: white;
+	background-color: black;
+	padding: 2px;
+	padding-left: 5em;
+	z-index: 100000;
+	box-shadow: -3px -2px 12px black;
+}
+.siteheader * {
+	padding: 0;
+	margin: 0;
+	color: white;
+}
+.siteheader li {
+	list-style-type: none;
+	float: left;
+	padding-right: 2em;
+}
+.siteheader li.separator {
+	width: 3em;
+	height: 1ex;
+}
+
+/* bubbles */
+ul.bubbles {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+ul.bubbles > li {
+  min-height: 8.4em;
+  float: left;
+  list-style-type: none;
+  background-repeat: no-repeat;
+  padding: 1ex;
+  padding-top: 0;
+  padding-left: 64px;
+  padding-left: -moz-calc(48px + 1.3em);
+  margin: 1ex;
+  margin-top: 2ex;
+  margin-right: 2.5em;
+  width: 150px;
+  /*filter: url(res/filters.svg#desaturate);*/
+}
+ul.bubbles > li {
+}
+ul.bubbles h3 {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 0.7ex;
+}
+ul.bubbles p {
+	padding: 0;
+	margin: 0;
+	font-size: small;
+  line-height: 1.4;
+}
+ul.bubbles a, ul.bubbles a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+ul.bubbles a:hover {
+  color: darkslategray;
+}
+ul.bubbles h3:after {
+  content: '»';
+  padding-left: 0.5ex;
+  color: darkgray;
+  font-family: "Arial Black", sans-serif;
+}
+ul.bubbles + * {
+	clear: both;
+}
+
+/* feature lists */
+#features ul { margin: 1ex; margin-left: 2em; padding: 0;}
+#features li { list-style-image: url(/res/star.png); margin-bottom: 0.3ex; }
+
+/* regular downloads */
+.download {
+	min-height: 36px;
+	padding-left: 44px;
+	margin-bottom: 2ex;
+	background: transparent url(res/install.png) no-repeat 4px center;
+}
+.download > a {
+	font-weight: bold;
+}
+.download > span {
+	font-size: small;
+}
+
+/* remarks */
+.remark {
+	font-size: small;
+	font-style: italic;
+}
+
+/* Q/A */
+.A, .Q {
+	padding: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.A {
+	margin-bottom: 1ex;
+}
+.A:before {
+	content: 'A.';
+	padding-right: 1ex;
+	font-weight: bold;
+}
+.Q {
+	font-style: italic;
+}
+.Q:before {
+	content: 'Q.';
+	padding-right: 1ex;
+}
+
+.hidden {
+	display: none !important;
+}
+
+/* icons */
+#aboutme {
+  background: url(res/hp/gravatar.png);
+}
+#github {
+  background: url(res/hp/github.png);
+}
+#flattr,
+#stackoverflow,
+#coderwall {
+	display: block;
+	margin-top: 1.2em;
+}
+#addons {
+  background: url(res/hp/addons.png);
+}
+
+#downthemall {
+  background: url(res/hp/downthemall.png);
+}
+#anticontainer {
+  background: url(res/hp/anticontainer.png);
+}
+#scriptish {
+  background: url(res/hp/scriptish.png);
+}
+#mintrayr {
+  background: url(res/hp/mintrayr.png);
+}
+#unrarit {
+  background: url(res/hp/unrarit.png);
+}
+#sdlna {
+  background: url(res/hp/sdlna.png);
+}
+#fastpreview {
+  background: url(res/hp/fastpreview.png);
+}
+#sqlitepp {
+  background: url(res/hp/sqlitepp.png);
+}
+#simimages {
+  background: url(res/hp/simimages.png);
+}
+#xsendfile {
+  background: url(res/hp/xsendfile.png);
+}
+#tracduplicates {
+  background: url(res/hp/tracduplicates.png);
+}
+#getoptnet {
+  background: url(res/hp/dotnet.png);
+}
+#stopgap {
+  background: url(res/hp/stopgap.png);
+}
+.py {
+  background: url(res/hp/python.png);
+}
+
+/* html5 compat */
+header, article, footer, section {
+	display: block;
+}

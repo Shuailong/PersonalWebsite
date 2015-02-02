@@ -1,0 +1,50 @@
+/*
+ * Copyright is hereby disclaimed and "work" put into the public domain
+ * May you do good and not evil
+ */
+
+@import '../style.css';
+
+pre {
+	border: 1px solid black;
+	margin: 1ex;
+	padding: 1ex;
+	background-color: #f0f8ff;
+	overflow: auto;
+	height: 10em;
+}
+
+/* skills */
+
+#skills {
+	column-count: 2;
+	-moz-column-count: 2;
+}
+#skills > li {
+	margin-bottom: 0.4ex;
+	list-style-type: square;
+}
+
+
+/* img class (illu-pix) */
+
+.img {
+	display: block;
+	float: right;
+	clear: right;
+	margin: 3ex;
+	margin-right: 4ex;
+	background: white url(shadowAlpha.png) bottom right;
+  line-height: 1;
+}
+.img img {
+	padding: 4px;
+	position: relative;
+	left: -6px;
+	top: -2px;
+	border: 1px solid black;
+}
+
+.small {
+	font-size: x-small;
+}
