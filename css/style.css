@@ -3,7 +3,7 @@
  * May you do good and not evil
  */
 
-@import '../style.css';
+@import './_style.css';
 
 pre {
 	border: 1px solid black;
