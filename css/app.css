@@ -1,0 +1,13 @@
+
+#gallery{
+	text-align: center;
+	width: 1200px;
+	margin: 50px auto;
+}
+.shots{
+	margin: 16px;
+	width: 20%;
+	border: 1px solid #ccc;
+	padding: 5px;
+	border-radius: 5px;
+}

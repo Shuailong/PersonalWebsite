@@ -1,0 +1,24 @@
+
+@import url(https://fonts.googleapis.com/css?family=PT+Sans);
+
+html {
+  font-family: "PT Sans", sans-serif;
+  font-size: 18px;
+  line-height: 1.6;
+  color: black;
+  background: white;
+}
+
+#gallery{
+	text-align: center;
+	width: 1200px;
+	margin: 50px auto;
+}
+.shots{
+	margin: 20px;
+	width: 40%;
+	border: 1px solid #ccc;
+	padding: 5px;
+	border-radius: 5px;
+}
+
