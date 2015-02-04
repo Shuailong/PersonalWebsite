@@ -26,11 +26,11 @@ h3 {
 }
 
 a {
-	color: darkblue;
+	color: #4682B4;
 	text-decoration: none;
 }
 a:hover {
-	color: red;
+	color: #FF7F00;
 }
 a > img {
 	border: 0;
