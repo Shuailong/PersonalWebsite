@@ -157,7 +157,7 @@ var divPos = new ElementPosition("wordParticle"); //you may passed the div id or
     
     function readWords()
     {
-      words='梁帅龙 Liang Shuailong 一 这是一篇萦怀于心而又一直不敢动笔的文章。是心中绷得太紧以至于怕轻轻一抚就砉然断裂的弦丝。却又恍若巨石在喉，耿耿于无数个不眠之夜，在黑暗中撕心裂肺，似乎祇须默默一念，便足以砸碎我寄命尘世这一点点虚妄的自足。又是江南飞霜的时节了，秋水生凉，寒气渐沉。整整10年了，身寄北国的我仍是不敢重回那一段冰冷的水域，不敢也不欲去想像我投江失踪的母亲，至今仍暴尸于哪一片月光下……';
+      words='梁帅龙 Liang Shuailong';
       txt=words.split('\n');
     }
     
