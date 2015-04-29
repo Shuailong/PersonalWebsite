@@ -1,0 +1,6 @@
+'@U<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:55;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2015-02-10 20:14:20";s:13:"post_date_gmt";s:19:"2015-02-10 12:14:20";s:12:"post_content";s:640:"<blockquote>20多岁的你，迷茫又着急。你想要房子你想要汽车，你想要旅行你想要高品质生活。你那么年轻却觊觎整个世界，你那么浮躁却想要看透生活。你不断催促自己赶快成长，却沉不下心来认真读一篇文章；你一次次吹响前进的号角，却总是倒在离出发不远的地方。请坚韧一些，年轻的朋友，勇敢地前行。</blockquote>
+这是去年9月我转发在微信朋友圈的一段话。
+
+20多岁的年纪，想想已然度过了人生三分之一或四分之一或五分之一的日子，是该想想未来的路该怎么走了。
+
+&nbsp;";s:10:"post_title";s:24:"你该有自己的生活";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:72:"%e4%bd%a0%e8%af%a5%e6%9c%89%e8%87%aa%e5%b7%b1%e7%9a%84%e7%94%9f%e6%b4%bb";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2015-02-10 20:14:48";s:17:"post_modified_gmt";s:19:"2015-02-10 12:14:48";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:30:"http://shuailong.me/blog/?p=55";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

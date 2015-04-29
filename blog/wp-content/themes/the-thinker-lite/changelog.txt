@@ -1,0 +1,29 @@
+= The Thinker Lite change log =
+
+Version 1.0.9 - 08.02.2015.
+- Changes inside the style.css - added new tags
+- Added new screenshot.png file 
+
+Version 1.0.8 - 08.02.2015.
+- Changes inside the style.css - better responsive performance 
+
+Version 1.0.7 - 13.01.2015.
+- Modified description 
+
+Version 1.0.6 - 12.01.2015.
+- Fixed text string in customizer.php
+- Fixed escape missing in header.php
+
+Version 1.0.5 - 12.01.2015.
+-Added new theme screenshot
+
+Version 1.0.4 - 11.01.2015.
+- Added tag: translatation-ready
+- Removed  modernizr.js file
+- Clearing the functions.php file
+- Small fixes inside the footer.php, header.php, customizer.php and extras.php files
+
+Version 1.0.1, 1.0.2, 1.0.3 - 04.12.2014.
+- Changed theme name in style.css
+
+Version 1.0 - 04.12.2014.

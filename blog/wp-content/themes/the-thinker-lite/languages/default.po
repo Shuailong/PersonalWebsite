@@ -1,0 +1,352 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: The Thinker Lite\n"
+"POT-Creation-Date: 2015-01-11 13:40+0100\n"
+"PO-Revision-Date: 2015-01-11 13:40+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_nx\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../thethinkerlite/404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../thethinkerlite/404.php:30
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../thethinkerlite/404.php:36
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: ../thethinkerlite/404.php:52
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: ../thethinkerlite/archive.php:29
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../thethinkerlite/archive.php:31
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../thethinkerlite/archive.php:33
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../thethinkerlite/archive.php:35
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../thethinkerlite/archive.php:37
+msgid "Asides"
+msgstr ""
+
+#: ../thethinkerlite/archive.php:39
+msgid "Galleries"
+msgstr ""
+
+#: ../thethinkerlite/archive.php:41
+msgid "Images"
+msgstr ""
+
+#: ../thethinkerlite/archive.php:43
+msgid "Videos"
+msgstr ""
+
+#: ../thethinkerlite/archive.php:45
+msgid "Quotes"
+msgstr ""
+
+#: ../thethinkerlite/archive.php:47
+msgid "Links"
+msgstr ""
+
+#: ../thethinkerlite/archive.php:49
+msgid "Statuses"
+msgstr ""
+
+#: ../thethinkerlite/archive.php:51
+msgid "Audios"
+msgstr ""
+
+#: ../thethinkerlite/archive.php:53
+msgid "Chats"
+msgstr ""
+
+#: ../thethinkerlite/archive.php:55
+msgid "Archives"
+msgstr ""
+
+#: ../thethinkerlite/comments.php:26
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: ../thethinkerlite/comments.php:32 ../thethinkerlite/comments.php:50
+msgid "Comment navigation"
+msgstr ""
+
+#: ../thethinkerlite/comments.php:33 ../thethinkerlite/comments.php:51
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: ../thethinkerlite/comments.php:34 ../thethinkerlite/comments.php:52
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../thethinkerlite/comments.php:60
+msgid "Comments are closed."
+msgstr ""
+
+#: ../thethinkerlite/content-archive.php:15
+#: ../thethinkerlite/content-aside.php:16
+#: ../thethinkerlite/content-image.php:27
+#: ../thethinkerlite/content-quote.php:17
+#: ../thethinkerlite/content-single.php:17
+#: ../thethinkerlite/content-video.php:29 ../thethinkerlite/content.php:27
+#, php-format
+msgid "All %s posts"
+msgstr ""
+
+#: ../thethinkerlite/content-archive.php:17
+#: ../thethinkerlite/content-archive.php:65
+#: ../thethinkerlite/content-aside.php:18
+#: ../thethinkerlite/content-image.php:29
+#: ../thethinkerlite/content-page.php:20
+#: ../thethinkerlite/content-quote.php:20
+#: ../thethinkerlite/content-single.php:19
+#: ../thethinkerlite/content-single.php:68
+#: ../thethinkerlite/content-video.php:31 ../thethinkerlite/content.php:29
+#: ../thethinkerlite/inc/template-tags.php:77
+#: ../thethinkerlite/inc/template-tags.php:107
+msgid "Edit"
+msgstr ""
+
+#: ../thethinkerlite/content-archive.php:20
+#: ../thethinkerlite/content-aside.php:21
+#: ../thethinkerlite/content-image.php:32
+#: ../thethinkerlite/content-quote.php:22
+#: ../thethinkerlite/content-single.php:22
+#: ../thethinkerlite/content-video.php:34 ../thethinkerlite/content.php:32
+msgid "Leave a comment"
+msgstr ""
+
+#: ../thethinkerlite/content-archive.php:20
+#: ../thethinkerlite/content-aside.php:21
+#: ../thethinkerlite/content-image.php:32
+#: ../thethinkerlite/content-quote.php:22
+#: ../thethinkerlite/content-single.php:22
+#: ../thethinkerlite/content-video.php:34 ../thethinkerlite/content.php:32
+msgid "1 Comment"
+msgstr ""
+
+#: ../thethinkerlite/content-archive.php:20
+#: ../thethinkerlite/content-aside.php:21
+#: ../thethinkerlite/content-image.php:32
+#: ../thethinkerlite/content-quote.php:22
+#: ../thethinkerlite/content-single.php:22
+#: ../thethinkerlite/content-video.php:34 ../thethinkerlite/content.php:32
+msgid "% Comments"
+msgstr ""
+
+#: ../thethinkerlite/content-archive.php:32
+#: ../thethinkerlite/content-aside.php:32
+#: ../thethinkerlite/content-image.php:44
+#: ../thethinkerlite/content-page.php:13
+#: ../thethinkerlite/content-quote.php:27
+#: ../thethinkerlite/content-single.php:34
+#: ../thethinkerlite/content-video.php:46 ../thethinkerlite/content.php:44
+msgid "Pages:"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: ../thethinkerlite/content-archive.php:40
+#: ../thethinkerlite/content-archive.php:42
+#: ../thethinkerlite/content-single.php:43
+#: ../thethinkerlite/content-single.php:45
+msgid ", "
+msgstr ""
+
+#: ../thethinkerlite/content-archive.php:46
+#: ../thethinkerlite/content-single.php:49
+#, php-format
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: ../thethinkerlite/content-archive.php:48
+#: ../thethinkerlite/content-single.php:51
+#, php-format
+msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../thethinkerlite/content-archive.php:53
+#: ../thethinkerlite/content-single.php:56
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../thethinkerlite/content-archive.php:55
+#: ../thethinkerlite/content-single.php:58
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: ../thethinkerlite/content-aside.php:13
+#: ../thethinkerlite/content-image.php:41
+#: ../thethinkerlite/content-quote.php:13
+#: ../thethinkerlite/content-video.php:43 ../thethinkerlite/content.php:41
+#: ../thethinkerlite/functions.php:191
+msgid "Read More"
+msgstr ""
+
+#: ../thethinkerlite/content-single.php:74
+msgid "by "
+msgstr ""
+
+#: ../thethinkerlite/footer.php:20
+#, php-format
+msgid "%1$s by %2$s."
+msgstr ""
+
+#: ../thethinkerlite/functions.php:67
+msgid "Primary Menu"
+msgstr ""
+
+#: ../thethinkerlite/functions.php:68
+msgid "Social"
+msgstr ""
+
+#: ../thethinkerlite/functions.php:82
+msgid "Sidebar"
+msgstr ""
+
+#: ../thethinkerlite/functions.php:90
+msgid "Footer Widget Area"
+msgstr ""
+
+#: ../thethinkerlite/header.php:24
+msgid "Menu"
+msgstr ""
+
+#: ../thethinkerlite/header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: ../thethinkerlite/inc/customizer.php:21
+#: ../thethinkerlite/inc/customizer.php:29
+msgid "Logo"
+msgstr ""
+
+#: ../thethinkerlite/inc/template-tags.php:34
+msgid "Post navigation"
+msgstr ""
+
+#: ../thethinkerlite/inc/template-tags.php:38
+msgid "<span class=\"meta-nav\">Previous testimonial</span>"
+msgstr ""
+
+#: ../thethinkerlite/inc/template-tags.php:39
+msgid "Next testimonial"
+msgstr ""
+
+#: ../thethinkerlite/inc/template-tags.php:42
+msgid "<span class=\"meta-nav\">View the post</span>"
+msgstr ""
+
+#: ../thethinkerlite/inc/template-tags.php:45
+msgid "<span class=\"meta-nav\">Previous post</span>"
+msgstr ""
+
+#: ../thethinkerlite/inc/template-tags.php:46
+msgid "Next post"
+msgstr ""
+
+#: ../thethinkerlite/inc/template-tags.php:51
+msgid "Older posts"
+msgstr ""
+
+#: ../thethinkerlite/inc/template-tags.php:56
+msgid "Newer posts"
+msgstr ""
+
+#: ../thethinkerlite/inc/template-tags.php:77
+msgid "Pingback:"
+msgstr ""
+
+#: ../thethinkerlite/inc/template-tags.php:93
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../thethinkerlite/inc/template-tags.php:124
+#, php-format
+msgid ""
+"<span class=\"sticky-post\">Sticky</span><span class=\"byline\"><span class="
+"\"author vcard\"><a class=\"url fn n\" href=\"%1$s\" title=\"%2$s\" rel="
+"\"author\">%3$s</a></span></span>"
+msgstr ""
+
+#: ../thethinkerlite/inc/template-tags.php:126
+#: ../thethinkerlite/inc/template-tags.php:136
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../thethinkerlite/inc/template-tags.php:130
+#, php-format
+msgid ""
+"<span class=\"entry-date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark"
+"\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a></span> <span "
+"class=\"byline\"><span class=\"author vcard\"><a class=\"url fn n\" href="
+"\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+
+#: ../thethinkerlite/no-results.php:13 ../thethinkerlite/search.php:24
+msgid "Nothing Found"
+msgstr ""
+
+#: ../thethinkerlite/no-results.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../thethinkerlite/no-results.php:20
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../thethinkerlite/no-results.php:23
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../thethinkerlite/search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""

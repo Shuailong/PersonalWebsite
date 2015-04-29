@@ -1,0 +1,1 @@
+ۋ@U<?php exit; ?>a:1:{s:7:"content";a:6:{s:10:"_edit_last";a:1:{i:0;s:1:"1";}s:10:"_edit_lock";a:1:{i:0;s:12:"1425140541:1";}s:13:"_thumbnail_id";a:1:{i:0;s:3:"238";}s:20:"_yoast_wpseo_focuskw";a:1:{i:0;s:12:"新年愿望";}s:21:"_yoast_wpseo_metadesc";a:1:{i:0;s:43:"新年愿望 梁帅龙的羊年新年愿望";}s:20:"_yoast_wpseo_linkdex";a:1:{i:0;s:2:"49";}}}
