@@ -1,1 +1,0 @@
-݋@U<?php exit; ?>a:1:{s:7:"content";a:5:{s:21:"wp_statistics_removal";b:1;s:21:"widget_akismet_widget";b:1;s:29:"widget_wp_user_avatar_profile";b:1;s:21:"akismet_comment_nonce";b:1;s:25:"auto_core_update_notified";b:1;}}
