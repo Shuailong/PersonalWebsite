@@ -34,7 +34,7 @@ pre {
 	clear: right;
 	margin: 3ex;
 	margin-right: 4ex;
-	background: white url(shadowAlpha.png) bottom right;
+	background: white bottom right;
   line-height: 1;
 }
 .img img {
